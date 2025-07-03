@@ -1,0 +1,8 @@
+headnode/
+Received_Models/
+*.h5
+*.txt
+glove-50
+figures/
+*.csv
+__pycache__/
